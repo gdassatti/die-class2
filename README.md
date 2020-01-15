@@ -1,4 +1,5 @@
-# Git Lab #2
-# first team member: Gavin Dassatti
 
-die class project. it simulates a die and includes a driver program.
+# The second Git lab
+## first team member: Gavin Dassatti
+## Second team member: Easton Scowden
+### Die Project: simulates the rolling of a die with a specified number of sides.
