@@ -20,7 +20,7 @@ int main(){
     cout << "Face Value: " << d12 << endl;
     d12.setNumSides(24);
     for(size_t i = 0; i < 6; i++){
-        cout << "Roll: " << d12.roll << endl;
+        cout << "Roll: " << d12.roll() << endl;
     }
 
     return 0;
